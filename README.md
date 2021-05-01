@@ -1,6 +1,6 @@
-# Project Title
+# Web Scraping
 
-Project description 
+General web scraping
 
 :open_file_folder: Repo Organization
 --------------------------------
